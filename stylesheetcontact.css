@@ -1,0 +1,30 @@
+.row h2{
+  text-align: center;
+  text-transform: uppercase;
+  color: #212121;
+  position: relative;
+  display: inline-block;
+  
+  font-family: "Abril Fatface";
+  font-size: 3.75rem;
+}
+
+.row{  
+  text-align: center;
+}
+
+.colorgris{
+  color: #293133;   
+  text-align: center;
+  
+  position: relative;
+  display: inline-block;
+}
+
+.subtitulo{  
+  text-align: center;
+  text-transform: uppercase;  
+  color: #293133;   
+  letter-spacing: 1px;
+   font-size:25px;  
+}
