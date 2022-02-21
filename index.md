@@ -63,7 +63,7 @@ classes: wide
 			Portal para la catalogación de los conjuntos de datos identificados en la guía de la Federación Española de Municipios y Provincias, emparejando los vocabularios inicialmente creados por la red española de datos abiertos y ciudades inteligentes (OpenUniversityData).</p>
 		</div>
 		<div class="col-md"> 
-			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="100%" style="border-radius: 20px;"/> 
+			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="200%" style="border-radius: 30px;"/> 
 			<br><br>
 			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Guia UniversiDATA</button></a>
 		</div>
@@ -86,23 +86,23 @@ classes: wide
 	 <div class="row">
 		 <div class="col-6 col-md-3">
  <div class="item1">
-<figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="40"/>
+<figure class="imagen1">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="50"/>
     <figcaption>Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item2">
-<figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="40"/>
+<figure class="imagen2">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="30"/>
     <figcaption>Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item3">
-<figure class="imagen">
+<figure class="imagen3">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" width="40"/>
     <figcaption>Recursos Humanos</figcaption></a>
 </figure>
@@ -110,8 +110,8 @@ classes: wide
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item4">
-<figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="40"/>
+<figure class="imagen4">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="50"/>
     <figcaption>Organización y Servicios</figcaption></a>
 </figure>
   </div>
@@ -138,74 +138,6 @@ window.find(string);
 
 
 </body>
-
-<!--
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="140" /></a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="140"/></a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="140" /></a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="125" /></a>&nbsp; &nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="150" /> </a> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCALIDADAIRE"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="140"/></a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-      <a href="https://fempcatalogo.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="130"/> </a> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCENSO"> <img src="Iconos/censo.png" alt="Censo de locales" width="130" /> </a> &nbsp;&nbsp;
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="150" /> </a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCONTRATACIONES"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="130"/></a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCONVENIOS"> <img src="Iconos/convenios.png" alt="Convenios" width="140" /> </a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPDEUDAPUBLICA"> <img src="Iconos/deuda.png" alt="Deuda" width="160" /> </a> &nbsp;&nbsp;   
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="130" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPTRAFICO"><img src="Iconos/trafico.png" alt="Trafico" width="120"/></a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPINSTALACIONESDEPORTIVAS"> <img src="Iconos/deporte.png" alt="InstalacionesDeportivas" width="150" /> </a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPLUGARINTERE"> <img src="Iconos/lugar.png" alt="LugarInteres" width="130" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPPADRONMUNICIPAL"><img src="Iconos/padron.png" alt="PadronMunicipal" width="130" /> </a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPPRESUPUESTO"><img src="Iconos/presupuesto.png" alt="PresupuestoMunicipal" width="130"/></a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPPUNTOACCESO"> <img src="Iconos/puntoacceso.png" alt="PuntoAcceso" width="150" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPTRANSPORTEPUBLICO"> <img src="Iconos/transporte.png" alt="TransportePublico" width="135" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPCARTOGRAFIA"><img src="Iconos/cartografia.png" alt="Cartografía" width="135" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPACCIDENTES"><img src="Iconos/accidentes.png" alt="AccidentesTrafico" width="130"/></a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCONTENEDORES"> <img src="Iconos/reciclar.png" alt="ContenedoresReciclaje" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPREGISTRO"> <img src="Iconos/registro.png" alt="RegistroAsociaciones" width="130" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPALOJAMIENTOS"><img src="Iconos/alojamientos.png" alt="Alojamientos" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPAGUA"><img src="Iconos/agua.png" alt="CalidadAgua" width="120"/></a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCARRILBICI"> <img src="Iconos/carrilbici.png" alt="CarrilesBici" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPALUMBRADO"> <img src="Iconos/alumbrado.png" alt="Alumbrado" width="150" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPSUBVENCIONES"><img src="Iconos/subvenciones.png" alt="Subvenciones" width="150" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPZONAINFANTIL"><img src="Iconos/zonainfantil.png" alt="ZonaInfantil" width="125"/></a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPCENSOEMPRESA"> <img src="Iconos/censoempresas.png" alt="CensoEmpresas" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPFACTURAS"> <img src="Iconos/facturas.png" alt="Facturas" width="150" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPCENSOVEHICULOS"><img src="Iconos/censovehiculos.png" alt="CensoVehiculos" width="130" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPINVENTARIO"><img src="Iconos/inventario.png" alt="inventarioBienes" width="130"/></a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPPARQUES"> <img src="Iconos/parque.png" alt="ParquesyJardines" width="150" /> </a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPRPT"> <img src="Iconos/rpt.png" alt="RPT" width="160" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-   <a href="https://fempcatalogo.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="130" /> </a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="120" /></a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="150" /> </a> &nbsp;&nbsp; 
-</p>
-<p float="right" align="center">
-  <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="150" /></a> 
-</p>
--->
-
-
 
 
 &nbsp; 
