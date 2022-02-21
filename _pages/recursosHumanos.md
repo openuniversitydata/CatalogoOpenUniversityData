@@ -9,12 +9,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/openuniversitydata/vocab-recursos-humanos"
-
 title: false
 classes: wide
 permalink: /recursos-humanos/
 ---
-
 
 <head>
 
@@ -25,14 +23,8 @@ permalink: /recursos-humanos/
 	td:nth-of-type(3):before { content: "Links"; }	
 	td:nth-of-type(4):before { content: "Issues"; }
 	td:nth-of-type(5):before { content: "Descripción"; }	
-	td:nth-of-type(6):before { content: "Fecha Publicación"; }
-	td:nth-of-type(7):before { content: "Prefijo"; }
-	td:nth-of-type(8):before { content: "Formatos"; }
-	td:nth-of-type(9):before { content: "Liciencia"; }
-	td:nth-of-type(10):before { content: "Idiomas"; }	
 	}
 	</style>
-  
 	
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -77,9 +69,6 @@ permalink: /recursos-humanos/
 </head>
 
 
-
-
-
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
@@ -90,7 +79,13 @@ permalink: /recursos-humanos/
 
 &nbsp;
  
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
+</p>
+
+&nbsp; &nbsp;
   
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
@@ -98,11 +93,4 @@ permalink: /recursos-humanos/
 | Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-recursos-humanos)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-recursos-humanos/issues)*   | Información sobre todo lo relacionado con los empleados universitarios.  | 
  
  
-  
-
- 
 &nbsp;
-
-
- 
- 

@@ -9,12 +9,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/openuniversitydata/vocab-economia-y-patrimonio"
-
 title: false
 classes: wide
 permalink: /economia-y-patrimonio/
 ---
-
 
 <head>
 
@@ -25,15 +23,9 @@ permalink: /economia-y-patrimonio/
 	td:nth-of-type(3):before { content: "Links"; }	
 	td:nth-of-type(4):before { content: "Issues"; }
 	td:nth-of-type(5):before { content: "Descripción"; }	
-	td:nth-of-type(6):before { content: "Fecha Publicación"; }
-	td:nth-of-type(7):before { content: "Prefijo"; }
-	td:nth-of-type(8):before { content: "Formatos"; }
-	td:nth-of-type(9):before { content: "Liciencia"; }
-	td:nth-of-type(10):before { content: "Idiomas"; }	
 	}
 	</style>
   
-	
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -73,12 +65,8 @@ permalink: /economia-y-patrimonio/
 <br><br>
 </div>
 	
-	
+
 </head>
-
-
-
-
 
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
@@ -90,19 +78,17 @@ permalink: /economia-y-patrimonio/
 
 &nbsp;
  
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
-  
-  
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
+</p>
+
+&nbsp; &nbsp;
+
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Economía | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-economia-y-patrimonio)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-economia-y-patrimonio/issues)*   | Información sobre todo lo que tiene que ver con los presupuestos de ingresos y de gastos universitarios.  | 
  
  
-  
-
- 
 &nbsp;
-
-
- 
- 

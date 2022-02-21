@@ -70,7 +70,7 @@ permalink: /estudios-y-estudiantes/
 
 
 <div id="bodyid">
-  <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
+  <link href="stylesheet.css" rel="stylesheet"/>
 
 <h1> VOCABULARIO ESTUDIOS Y ESTUDIANTES </h1>
 </div>
@@ -88,20 +88,9 @@ permalink: /estudios-y-estudiantes/
 &nbsp; &nbsp;
 
   
-  
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Educación | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-estudios-y-estudiantes)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-estudios-y-estudiantes/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
  
  
-  
-
- 
-
- 
 &nbsp;
-
-
-  
-
-
