@@ -15,7 +15,7 @@ h1{
 
 .buttonI{    
     font-family: Georgia,Times,serif;
-  font-size: small;
+  font-size: medium;
 }
 
 .intro{
@@ -130,7 +130,7 @@ td {
 
 .h2T{   
   color: white;    
-  font-size:small;
+  font-size:medium;
 	font-family: Georgia,Times,serif;
 }
 
@@ -187,7 +187,7 @@ a:active {
 }
 
 body{
- background-image:url("Iconos/webb.png");  
+  color: aqua;
 }
 
 
