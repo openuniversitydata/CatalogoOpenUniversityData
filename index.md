@@ -63,7 +63,7 @@ classes: wide
 			Portal para la catalogación de los conjuntos de datos identificados en la guía de la Federación Española de Municipios y Provincias, emparejando los vocabularios inicialmente creados por la red española de datos abiertos y ciudades inteligentes (OpenUniversityData).</p>
 		</div>
 		<div class="col-md"> 
-			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="100%" style="border-radius: 20px;"/> 
+			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="200%" style="border-radius: 30px;"/> 
 			<br><br>
 			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Guia UniversiDATA</button></a>
 		</div>
@@ -86,7 +86,7 @@ classes: wide
 	 <div class="row">
 		 <div class="col-6 col-md-3">
  <div class="item1">
-<figure class="imagen">
+<figure class="imagen1">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="50"/>
     <figcaption>Estudios y Estudiantes</figcaption></a>
 </figure>
@@ -94,7 +94,7 @@ classes: wide
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item2">
-<figure class="imagen">
+<figure class="imagen2">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="30"/>
     <figcaption>Economía y Patrimonio</figcaption></a>
 </figure>
@@ -102,7 +102,7 @@ classes: wide
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item3">
-<figure class="imagen">
+<figure class="imagen3">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" width="40"/>
     <figcaption>Recursos Humanos</figcaption></a>
 </figure>
@@ -110,7 +110,7 @@ classes: wide
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item4">
-<figure class="imagen">
+<figure class="imagen4">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="50"/>
     <figcaption>Organización y Servicios</figcaption></a>
 </figure>
