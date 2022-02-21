@@ -88,20 +88,9 @@ permalink: /organizacion-y-servicios/
 &nbsp; &nbsp;
 
   
-  
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
 | Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-organizacion-y-servicios)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-organizacion-y-servicios/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
  
- 
-  
 
- 
-
- 
 &nbsp;
-
-
-  
-
-
