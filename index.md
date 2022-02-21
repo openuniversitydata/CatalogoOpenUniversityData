@@ -40,7 +40,7 @@ classes: wide
 	</ul>
 	  <div class="search">
      	 <div class="mr-sm-2">
-	     <a href="/CatalogoFEMP/search/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+	     <a href="/CatalogoUniversiDATA/search/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
   <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
 </svg> </a>
 	  </div>
@@ -60,19 +60,13 @@ classes: wide
 		<h1 class="h1T">Vocabularios UniversiDATA </h1>
 			<br>
 		<p class="h2T" style="font-size: small;">
-			Portal para la catalogación de los conjuntos de datos identificados en la guía de la Federación Española de Municipios y Provincias, emparejando los vocabularios inicialmente creados por la red española de datos abiertos y ciudades inteligentes (OpenCityData).</p>
-		<p class="h2T" style="font-size: small;">
-				La Federación Española de Municipios y Provincias o FEMP propuso en el 2019 una iniciativa: crear 40 conjuntos de datos a publicar por Entidades locales. En el 2017 la Federación de Municipios y Provincias de España emitió la guía “Datos abiertos: guía estratégica para su puesta en marcha y conjuntos de datos mínimos a publicar”, que incluye una serie de recomendaciones y lineamientos sobre datos públicos abiertos, entre ellos el propósito de promover su publicación y reutilización. Además de información sobre marcos legales, modelos de gobernanza o mapas estándar de portales de datos abiertos, la guía también incluye 20 conjuntos de datos, que se consideran "el conjunto de datos más interesante, probable y fácil para la administración pública". Debido al gran éxito de FEMP, la idea inicial se amplió a otros 20 nuevos conjuntos. Como resultado se obtiene el archivo: “Datos abiertos FEMP 2019: 40 conjuntos de datos a publicar por las Entidades Locales.” Su objetivo es “proporcionar un modelo de datos abiertos común que facilite la interoperabilidad y la reutilización de la información del sector público, así como acercar a la comunidad internacional la apuesta de los municipios españoles por normalizar la información que se publica en formato abierto.” 
-			
-		</p>
+			Portal para la catalogación de los conjuntos de datos identificados en la guía de la Federación Española de Municipios y Provincias, emparejando los vocabularios inicialmente creados por la red española de datos abiertos y ciudades inteligentes (OpenUniversityData).</p>
 		</div>
 		<div class="col-md"> 
 			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="100%" style="border-radius: 20px;"/> 
 			<br><br>
 			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Guia UniversiDATA</button></a>
-			
 		</div>
-			
 		</div>
 	</div>
 	</header>
@@ -99,7 +93,7 @@ classes: wide
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
- <div class="item1">
+ <div class="item2">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="40"/>
     <figcaption>Economía y Patrimonio</figcaption></a>
@@ -107,7 +101,7 @@ classes: wide
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
- <div class="item1">
+ <div class="item3">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" width="40"/>
     <figcaption>Recursos Humanos</figcaption></a>
@@ -115,7 +109,7 @@ classes: wide
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
- <div class="item1">
+ <div class="item4">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="40"/>
     <figcaption>Organización y Servicios</figcaption></a>
