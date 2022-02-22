@@ -142,7 +142,9 @@ td {
 }
 
 .imagen{    
-  float: left;    
+  float: left; 
+  text-align: center;
+  color: white;
 }
 
 .imagenOTROS{
