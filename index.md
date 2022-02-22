@@ -38,13 +38,6 @@ classes: wide
         <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
       </li>
 	</ul>
-	  <div class="search">
-     	 <div class="mr-sm-2">
-	     <a href="/CatalogoUniversiDATA/search/"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-</svg> </a>
-	  </div>
-	  </div>
   </div>
 </nav>
 <br>
@@ -59,13 +52,13 @@ classes: wide
   		<div class="col-md">  
 		<h1 class="h1T">Vocabularios UniversiDATA </h1>
 			<br>
-		<p class="h2T" style="font-size: small;">
-			Portal para la catalogación de los conjuntos de datos identificados en la guía de la Federación Española de Municipios y Provincias, emparejando los vocabularios inicialmente creados por la red española de datos abiertos y ciudades inteligentes (OpenUniversityData).</p>
+		<p class="h2T">
+			Portal para sostener y catalogar los diferentes conjuntos de datos especializados en el sector educativo superior identificados en la guía de UniversiDATA. </p>
 		</div>
 		<div class="col-md"> 
-			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="200%" style="border-radius: 30px;"/> 
+			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="200%" style="border-radius: 20px;"/> 
 			<br><br>
-			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Guia UniversiDATA</button></a>
+			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Portal UniversiDATA</button></a>
 		</div>
 		</div>
 	</div>
@@ -86,33 +79,33 @@ classes: wide
 	 <div class="row">
 		 <div class="col-6 col-md-3">
  <div class="item1">
-<figure class="imagen1">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
-    <figcaption>Estudios y Estudiantes</figcaption></a>
+<figure class="item1">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="200%"/>
+    <figcaption style="text-align: center">Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item2">
-<figure class="imagen2">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
-    <figcaption>Economía y Patrimonio</figcaption></a>
+<figure class="item2">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="200%"/>
+    <figcaption style="text-align: center">Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item3">
-<figure class="imagen3">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
-    <figcaption>Recursos Humanos</figcaption></a>
+<figure class="item3">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" width="200%"/>
+    <figcaption style="text-align: center">Recursos Humanos</figcaption></a>
 </figure>
   </div>
 		 </div>
 		 <div class="col-6 col-md-3">
  <div class="item4">
-<figure class="imagen4">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
-    <figcaption>Organización y Servicios</figcaption></a>
+<figure class="item4">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="200%"/>
+    <figcaption style="text-align: center">Organización y Servicios</figcaption></a>
 </figure>
   </div>
 		 </div>
