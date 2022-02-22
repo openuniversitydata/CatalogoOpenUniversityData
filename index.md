@@ -75,7 +75,7 @@ classes: wide
 		 <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="30"/>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="50"/>
     <figcaption style="text-align: center">Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
@@ -83,7 +83,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="30"/>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="50"/>
     <figcaption style="text-align: center">Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
@@ -91,7 +91,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" width="50"/>
     <figcaption style="text-align: center">Recursos Humanos</figcaption></a>
 </figure>
   </div>
@@ -99,7 +99,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" width="50"/>
     <figcaption style="text-align: center">Organización y Servicios</figcaption></a>
 </figure>
   </div>
