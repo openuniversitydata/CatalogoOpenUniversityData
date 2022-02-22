@@ -13,8 +13,10 @@ h1{
 .buttonI{    
   font-family: Georgia,Times,serif;
   font-size: medium;
-  justify-content: center;
-  align-self: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 
 .intro{
@@ -137,7 +139,7 @@ td {
 .imagenes {
   width:  100px;
   height: 100px;
-  object-fit: scale-down;
+  object-fit: contain;
 }
 
 .imagenOTROS{
@@ -203,8 +205,7 @@ body{
 header{
    width:100%;
    height:auto;
-   /* background:url("Iconos/image(1).png");    */
-   background-color: darksalmon;
+   background-color: cornflowerblue;
   z-index: 2;
 }
 

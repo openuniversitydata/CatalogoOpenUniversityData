@@ -78,10 +78,10 @@ permalink: /contact/
 				 <br>
 			  </div> 
 			   <div class="col-6 col-md-4">
-			<img src="/CatalogoUniversiDATA/Iconos/phone.png" alt="phone" width="100"/>
+			<img src="/CatalogoUniversiDATA/Iconos/phone.png" alt="phone" width="80"/>
 					<br>
 					<br>
-				   <h5 class="subtitulo colorgris"> phone </h5>
+				   <h5 class="subtitulo colorgris"> Phone </h5>
 				   <br>
 				 <p> +34 910672911 </p>
 			  </div>
@@ -89,7 +89,7 @@ permalink: /contact/
 			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="100"/>
 				   <br>
 				   <br>
-				   <h5 class="subtitulo colorgris"> email </h5>
+				   <h5 class="subtitulo colorgris"> Email </h5>
 				   <br>
 				 <p> oscar.corcho@upm.es </p>
 			  </div>	   
