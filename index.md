@@ -32,9 +32,6 @@ classes: wide
 	<li class="nav-item">
         <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Universities</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
-      </li>
 	</ul>
   </div>
 </nav>
@@ -75,32 +72,32 @@ classes: wide
 		 <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
-    <figcaption class= "infoFigCaption">Estudios y Estudiantes</figcaption></a>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" object-fit="contain"/>
+    <figcaption style="text-align: center; color: white">Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
   </div>
 <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
-    <figcaption class= "infoFigCaption">Economía y Patrimonio</figcaption></a>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" object-fit="contain"/>
+    <figcaption style="text-align: center; color: white">Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
   </div>
 <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
-    <figcaption class= "infoFigCaption">Recursos Humanos</figcaption></a>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos" object-fit="contain"/>
+    <figcaption style="text-align: center; color: white">Recursos Humanos</figcaption></a>
 </figure>
   </div>
   </div>
 <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
-    <figcaption class= "infoFigCaption">Organización y Servicios</figcaption></a>
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios" object-fit="contain"/>
+    <figcaption style="text-align: center; color: white">Organización y Servicios</figcaption></a>
 </figure>
   </div>
   </div>

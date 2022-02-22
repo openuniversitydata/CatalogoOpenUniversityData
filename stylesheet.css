@@ -143,12 +143,6 @@ td {
 
 .imagen{    
   float: left;
-  object-fit: contain;
-}
-
-.infoFigCaption{    
-  text-align: center;
-  color: white;
 }
 
 .imagenOTROS{
