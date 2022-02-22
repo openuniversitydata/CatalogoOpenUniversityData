@@ -69,7 +69,8 @@ permalink: /contact/
 		   <div class="row">
 			   <br>
 			 <div class="col-6 col-md-4">
-			<img src="/CatalogoUniversiDATA/Iconos/location.png" alt="adress" width="60"/>
+			<img src="/CatalogoUniversiDATA/Iconos/location.png" alt="adress" width="100"/>
+				 <br>
 				 <br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
 				 <br>
@@ -77,14 +78,15 @@ permalink: /contact/
 				 <br>
 			  </div> 
 			   <div class="col-6 col-md-4">
-			<img src="/CatalogoUniversiDATA/Iconos/phone.png" alt="phone" width="50"/>
-				    <br>
+			<img src="/CatalogoUniversiDATA/Iconos/phone.png" alt="phone" width="100"/>
+					<br>
+					<br>
 				   <h5 class="subtitulo colorgris"> phone </h5>
 				   <br>
 				 <p> +34 910672911 </p>
 			  </div>
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="70"/>
+			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="100"/>
 				   <br>
 				   <br>
 				   <h5 class="subtitulo colorgris"> email </h5>
