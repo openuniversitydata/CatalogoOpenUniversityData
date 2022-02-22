@@ -42,10 +42,7 @@ classes: wide
 </nav>
 <br>
 </div>	
-
-
-	<br>
-	
+<br>	
 	<header>
 	<div class="headerC">
 		<div class="row">
@@ -78,40 +75,40 @@ classes: wide
 	<br>
 	 <div class="row">
 		 <div class="col-6 col-md-3">
- <div class="imagenes">
-<figure class="imagenes">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
+ <div class="item1">
+<figure class="imagen">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes" width="30"/>
     <figcaption style="text-align: center">Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
-		 </div>
-		 <div class="col-6 col-md-3">
- <div class="imagenes">
-<figure class="imagenes">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
+  </div>
+<div class="col-6 col-md-3">
+ <div class="item2">
+<figure class="imagen">
+<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio" width="30"/>
     <figcaption style="text-align: center">Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
-		 </div>
-		 <div class="col-6 col-md-3">
- <div class="imagenes">
-<figure class="imagenes">
+  </div>
+<div class="col-6 col-md-3">
+ <div class="item3">
+<figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
     <figcaption style="text-align: center">Recursos Humanos</figcaption></a>
 </figure>
   </div>
-		 </div>
-		 <div class="col-6 col-md-3">
- <div class="imagenes">
-<figure class="imagenes">
+  </div>
+<div class="col-6 col-md-3">
+ <div class="item4">
+<figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
     <figcaption style="text-align: center">Organización y Servicios</figcaption></a>
 </figure>
   </div>
-		 </div>
-	</div>
-	<br>
-	</div>
+  </div>
+  </div>
+  <br>
+  </div>
 </div>
 
 </body>

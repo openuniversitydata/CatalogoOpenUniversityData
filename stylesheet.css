@@ -15,8 +15,7 @@ h1{
   font-size: medium;
   margin: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  left: 45%;
 }
 
 .intro{
@@ -109,6 +108,10 @@ td {
     background-color: white;
 }
 
+.todojunto{
+  background-color: #ececec; 
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -136,10 +139,8 @@ td {
    width:100%;
 }
 
-.imagenes {
-  width:  100px;
-  height: 100px;
-  object-fit: contain;
+.imagen{    
+  float: left;    
 }
 
 .imagenOTROS{
@@ -186,9 +187,8 @@ a:active {
 }
 
 body{
-  background-color: whitesmoke;
+  background-color: lightgray;
 }
-
 
 .container {
   position: relative;

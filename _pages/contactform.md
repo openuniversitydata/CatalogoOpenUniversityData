@@ -86,7 +86,7 @@ permalink: /contact/
 				 <p> +34 910672911 </p>
 			  </div>
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="100"/>
+			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="120"/>
 				   <br>
 				   <br>
 				   <h5 class="subtitulo colorgris"> Email </h5>
