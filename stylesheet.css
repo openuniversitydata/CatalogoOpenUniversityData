@@ -1,4 +1,3 @@
-
 h2{
     border-bottom: none; 	
   font-size: 1rem;
@@ -217,7 +216,11 @@ header{
     margin: 2.5em;   
 }
 
-
+.textFooter{
+  color: black;    
+  font-size: x-large;
+	font-family: Georgia,Times,serif;
+}
 
 /*nav nuevo(responsive)*/
 .navMenu {	
@@ -226,7 +229,7 @@ header{
 
 .navMenu a{
    text-decoration: none;
-    background: linear-gradient( #fd7e14, white);
+    background: linear-gradient( deepskyblue, white);
     background-position: 0% 100%;
     background-repeat: no-repeat;
     background-size: 0% 2px;
@@ -241,11 +244,7 @@ header{
 	color:black;
 }
 
-
-
 .left{
  float:right;
  text-align: right;
 }
-
-
