@@ -76,7 +76,7 @@ classes: wide
  <div class="item1">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
-    <figcaption style="text-align: center" color="white">Estudios y Estudiantes</figcaption></a>
+    <figcaption>Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
   </div>
@@ -84,7 +84,7 @@ classes: wide
  <div class="item2">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
-    <figcaption style="text-align: center" color="white">Economía y Patrimonio</figcaption></a>
+    <figcaption>Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
   </div>
@@ -92,7 +92,7 @@ classes: wide
  <div class="item3">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
-    <figcaption style="text-align: center" color="white">Recursos Humanos</figcaption></a>
+    <figcaption>Recursos Humanos</figcaption></a>
 </figure>
   </div>
   </div>
@@ -100,7 +100,7 @@ classes: wide
  <div class="item4">
 <figure class="imagen">
 <a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
-    <figcaption style="text-align: center" color="white">Organización y Servicios</figcaption></a>
+    <figcaption>Organización y Servicios</figcaption></a>
 </figure>
   </div>
   </div>
