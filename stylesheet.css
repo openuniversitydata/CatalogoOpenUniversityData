@@ -15,7 +15,7 @@ h1{
   font-size: medium;
   margin: 0;
   position: absolute;
-  left: 45%;
+  left: 40%;
 }
 
 .intro{
@@ -126,12 +126,14 @@ td {
   color: white;
   font-size: xx-large;
 	font-family: Georgia,Times,serif;
+  text-align: center;
 }
 
 .h2T{   
   color: white;    
   font-size: x-small;
 	font-family: Georgia,Times,serif;
+  text-align: justify;
 }
 
 .todojunto{
@@ -187,7 +189,7 @@ a:active {
 }
 
 body{
-  background-color: lightgray;
+  background-color: beige;
 }
 
 .container {

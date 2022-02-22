@@ -29,11 +29,9 @@ classes: wide
 	<li class="nav-item">
         <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
-	    
 	<li class="nav-item">
         <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Universities</a>
       </li>
-      
       <li class="nav-item">
         <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
       </li>
