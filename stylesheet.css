@@ -145,27 +145,27 @@ td {
 }
 
 .imagen1{  
-  width: 200px;
-  height: 200px; 
-  object-fit: scale-down;
+  width: 150px;
+  height: 150px; 
+  object-fit: contain;
 }
 
 .imagen2{  
-  width: 200px;
-  height: 200px; 
-  object-fit: scale-down;
+  width: 150px;
+  height: 150px; 
+  object-fit: contain;
 }
 
 .imagen3{ 
-  width: 200px;
-  height: 200px; 
-  object-fit: scale-down;
+  width: 150px;
+  height: 150px; 
+  object-fit: contain;
 }
 
 .imagen4{
-  width: 200px;
-  height: 200px; 
-  object-fit: scale-down;
+  width: 150px;
+  height: 150px; 
+  object-fit: contain;
 }
 
 .imagenOTROS{
