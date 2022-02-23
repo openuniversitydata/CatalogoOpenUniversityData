@@ -145,23 +145,19 @@ td {
 }
 
 .imagen1{    
-  width: 300px;
-  height: 300px;
+  object-fit: contain;
 }
 
 .imagen2{    
-  width: 300px;
-  height: 300px;
+  object-fit: contain;
 }
 
 .imagen3{    
-  width: 300px;
-  height: 300px;
+  object-fit: contain;
 }
 
 .imagen4{    
-  width: 300px;
-  height: 300px;
+  object-fit: contain;
 }
 
 .imagenOTROS{
