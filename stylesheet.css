@@ -146,25 +146,25 @@ td {
 
 .imagen1{  
   width: 125px;
-  height: 125px; 
+  height: 100px; 
   object-fit: contain;
 }
 
 .imagen2{  
   width: 125px;
-  height: 125px; 
+  height: 100px; 
   object-fit: contain;
 }
 
 .imagen3{ 
   width: 125px;
-  height: 125px; 
+  height: 100px; 
   object-fit: contain;
 }
 
 .imagen4{
   width: 125px;
-  height: 125px; 
+  height: 100px; 
   object-fit: contain;
 }
 
