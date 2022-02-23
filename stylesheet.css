@@ -145,26 +145,26 @@ td {
 }
 
 .imagen1{  
-  width: 500px;
-  height: 500px; 
+  width: auto;
+  height: auto; 
   object-fit: contain;
 }
 
 .imagen2{  
-  width: 500px;
-  height: 500px; 
+  width: auto;
+  height: auto; 
   object-fit: contain;
 }
 
 .imagen3{ 
-  width: 500px;
-  height: 500px; 
+  width: auto;
+  height: auto; 
   object-fit: contain;
 }
 
 .imagen4{
-  width: 500px;
-  height: 500px; 
+  width: auto;
+  height: auto; 
   object-fit: contain;
 }
 
