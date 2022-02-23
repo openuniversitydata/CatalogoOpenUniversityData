@@ -144,6 +144,26 @@ td {
   float: left;
 }
 
+.imagen1{    
+  width: 100px;
+  height: 100px;
+}
+
+.imagen2{    
+  width: 100px;
+  height: 100px;
+}
+
+.imagen3{    
+  width: 100px;
+  height: 100px;
+}
+
+.imagen4{    
+  width: 100px;
+  height: 100px;
+}
+
 .imagenOTROS{
     width: 100px;
    background-color: white; 
