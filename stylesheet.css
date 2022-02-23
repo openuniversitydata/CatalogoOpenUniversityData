@@ -144,24 +144,28 @@ td {
   float: left;
 }
 
-.imagen1{    
-  width: 300px;
-  height: 300px;
+.imagen1{  
+  width:100%;
+  height:100%;  
+  object-fit: contain;
 }
 
-.imagen2{    
-  width: 300px;
-  height: 300px;
+.imagen2{  
+  width:100%;
+  height:100%;  
+  object-fit: contain;
 }
 
-.imagen3{    
-  width: 300px;
-  height: 300px;
+.imagen3{ 
+  width:100%;
+  height:100%;   
+  object-fit: contain;
 }
 
-.imagen4{    
-  width: 300px;
-  height: 300px;
+.imagen4{
+  width:100%;
+  height:100%;
+  object-fit: contain;
 }
 
 .imagenOTROS{
