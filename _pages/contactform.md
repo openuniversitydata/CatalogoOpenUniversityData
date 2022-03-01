@@ -17,8 +17,7 @@ permalink: /contact/
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	  
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">	
+<link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">	
 <link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>
 <link href="/CatalogoUniversiDATA/stylesheetcontact.css" rel="stylesheet"/>
 	
@@ -36,7 +35,10 @@ permalink: /contact/
         <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" style="text-decoration: none;">Open Data Universities</a>
+      </li>
+	<li class="nav-item">
+        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
       </li>
     </ul>
   </div>

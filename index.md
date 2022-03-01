@@ -30,7 +30,10 @@ classes: wide
         <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="http://vocab.linkeddata.es/datosabiertos/" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" style="text-decoration: none;">Open Data Universities</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
       </li>
 	</ul>
   </div>
@@ -42,16 +45,14 @@ classes: wide
 	<div class="headerC">
 		<div class="row">
   		<div class="col-md">  
-		<h1 class="h1T">Vocabularios UniversiDATA</h1>
+		<h1 class="h1T">Vocabularios para Datos Abiertos Universitarios</h1>
 			<br>
 		<p class="h2T">
-			Portal para sostener y catalogar los diferentes conjuntos de datos especializados en el sector educativo superior identificados en la guía de UniversiDATA. </p>
+			Página de enfoque abierto para la creación y catalogación de diferentes conjuntos y subconjuntos de datos y vocabularios relacionados con el sector educativo superior (específicamente universidades) siguiendo lo que se propone en el proyecto <a href="https://www.universidata.es">UniversiDATA</a>. </p>
 		</div>
-		<div class="col-md"> 
-			<img src="Iconos/logo_universidata.png" alt="GuiaUniversiDATA" width="200%" style="border-radius: 10px;"/> 
-			<br><br>
+		<!-- <div class="col-md"> 
 			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Portal UniversiDATA</button></a>
-		</div>
+		</div> -->
 		</div>
 	</div>
 	</header>
