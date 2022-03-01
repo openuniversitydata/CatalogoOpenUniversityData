@@ -15,7 +15,6 @@ permalink: /economia-y-patrimonio/
 ---
 
 <head>
-
 	<style>	
 	@media screen and (max-width: 760px) {
 	td:nth-of-type(1):before { content: "Dominio"; }
@@ -25,7 +24,6 @@ permalink: /economia-y-patrimonio/
 	td:nth-of-type(5):before { content: "Descripción"; }	
 	}
 	</style>
-  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -34,7 +32,6 @@ permalink: /economia-y-patrimonio/
 	
 <link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>
 	
-	    
  <div class="navMenu">   
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoUniversiDATA/" style="text-decoration: none;">Catalogue</a>
@@ -45,13 +42,13 @@ permalink: /economia-y-patrimonio/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-economia-y-patrimonio/blob/main/README.md" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-economia-y-patrimonio/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
@@ -61,8 +58,6 @@ permalink: /economia-y-patrimonio/
 </nav>
 <br><br>
 </div>
-	
-
 </head>
 
 <div id="bodyid">
