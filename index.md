@@ -27,10 +27,10 @@ classes: wide
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
 	<li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
       </li>
   <li class="nav-item">
         <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
@@ -48,11 +48,8 @@ classes: wide
 		<h1 class="h1T">Vocabularios para Datos Abiertos Universitarios</h1>
 			<br>
 		<p class="h2T">
-			Página de enfoque abierto para la creación y catalogación de diferentes conjuntos y subconjuntos de datos y vocabularios relacionados con el sector educativo superior (específicamente universidades) siguiendo lo que se propone en el proyecto <a href="https://www.universidata.es">UniversiDATA</a>. </p>
+			Página de enfoque abierto para la creación y catalogación de diferentes conjuntos y subconjuntos de datos y vocabularios relacionados con el sector educativo superior (específicamente universidades) siguiendo lo que se propone en el proyecto <a href="https://www.universidata.es" style="color: white;">UniversiDATA</a>. </p>
 		</div>
-		<!-- <div class="col-md"> 
-			<a href="https://www.universidata.es"> <button type="button" class="btn btn-light buttonI">Portal UniversiDATA</button></a>
-		</div> -->
 		</div>
 	</div>
 	</header>

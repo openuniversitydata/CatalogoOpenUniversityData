@@ -32,10 +32,10 @@ permalink: /contact/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
       </li>
 	<li class="nav-item">
         <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
