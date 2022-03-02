@@ -66,14 +66,18 @@ permalink: /estudios-y-estudiantes/
   <h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
 </div>
 
-<br>
+<p>
+
+</p>
 
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
   <h3> VOCABULARIO TITULACIONES </h3>
 </div>
 
-<br>
+<p>
+
+</p>
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
@@ -108,7 +112,7 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
         </em>
       </td>
-      <td>Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.</td>
+      <td>Vocabulario con información relativa a las titulaciones de los estudiantes universitarios.</td>
       <td></td>
       <td></td>
       <td></td>
@@ -124,7 +128,9 @@ permalink: /estudios-y-estudiantes/
   <h3> VOCABULARIO MATRÍCULAS </h3>
 </div>
 
-<br>
+<p>
+
+</p>
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
@@ -159,7 +165,113 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
         </em>
       </td>
-      <td>Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.</td>
+      <td>Vocabulario con información relativa a las matrículas de los estudiantes universitarios.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO ACCESO </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Educación</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-acceso">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa al acceso de los estudiantes universitarios.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO MOVILIDAD </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Educación</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-movilidad">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa a la movilidad, tanto entrante como saliente de los estudiantes universitarios.</td>
       <td></td>
       <td></td>
       <td></td>
