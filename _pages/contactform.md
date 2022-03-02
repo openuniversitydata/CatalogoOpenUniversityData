@@ -45,10 +45,8 @@ permalink: /contact/
 </nav>
 <br><br>
 </div>
-	  
-  </head>
-	
-		
+</head>
+			
   <body class="bodyc" style="font-size: 16px;">
 	  <div class="container">
 		 <div class="row">	   

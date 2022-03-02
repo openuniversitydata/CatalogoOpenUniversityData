@@ -48,7 +48,7 @@ classes: wide
 		<h1 class="h1T">Vocabularios para Datos Abiertos Universitarios</h1>
 			<br>
 		<p class="h2T">
-			Página de enfoque abierto para la creación y catalogación de diferentes conjuntos y subconjuntos de datos y vocabularios relacionados con el sector educativo superior (específicamente universidades) siguiendo lo que se propone en el proyecto <a href="https://www.universidata.es" style="color: white;">UniversiDATA</a>. </p>
+			Página de enfoque abierto para la creación y catalogación de diferentes conjuntos y subconjuntos de datos y vocabularios relacionados con el sector educativo superior (específicamente universidades) siguiendo lo que se propone en el proyecto <a href="https://www.universidata.es" style="color: rgb(240, 240, 240);">UniversiDATA</a>. </p>
 		</div>
 		</div>
 	</div>
