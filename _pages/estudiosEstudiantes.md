@@ -63,18 +63,19 @@ permalink: /estudios-y-estudiantes/
 
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
-
-<h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
+  <h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
 </div>
+
+<br>
 
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO TITULACIONES </h3>
+</div>
 
-<h3> VOCABULARIO TITULACIONES </h3>
- </div>
- 
+<br>
+
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
-
 <p float="right" align="center">   
 <img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
@@ -99,7 +100,58 @@ permalink: /estudios-y-estudiantes/
       <td>Inexistente</td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes">Repositorio</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-titulaciones">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+        </em>
+      </td>
+      <td>Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO MATRÍCULAS </h3>
+</div>
+
+<br>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Educación</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-matriculas">Repositorio</a>
         </em>
       </td>
       <td>
