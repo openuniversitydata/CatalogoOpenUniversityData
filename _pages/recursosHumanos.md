@@ -8,7 +8,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/openuniversitydata/vocab-recursos-humanos"
+      url: "https://github.com/openuniversitydata/recursos-humanos"
 title: false
 classes: wide
 permalink: /recursos-humanos/
@@ -43,7 +43,7 @@ permalink: /recursos-humanos/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-recursos-humanos/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/recursos-humanos/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
@@ -82,7 +82,7 @@ permalink: /recursos-humanos/
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
-| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-recursos-humanos)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-recursos-humanos/issues)*   | Información sobre todo lo relacionado con los empleados universitarios.  | 
+| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/recursos-humanos)*  |  *[Generar issue](https://github.com/openuniversitydata/recursos-humanos/issues)*   | Información sobre todo lo relacionado con los empleados universitarios.  | 
  
  
 &nbsp;

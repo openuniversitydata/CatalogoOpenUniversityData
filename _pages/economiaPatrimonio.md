@@ -8,7 +8,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/openuniversitydata/vocab-economia-y-patrimonio"
+      url: "https://github.com/openuniversitydata/economia-y-patrimonio"
 title: false
 classes: wide
 permalink: /economia-y-patrimonio/
@@ -42,7 +42,7 @@ permalink: /economia-y-patrimonio/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-economia-y-patrimonio/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/economia-y-patrimonio/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
@@ -80,7 +80,7 @@ permalink: /economia-y-patrimonio/
 
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
-| Economía | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-economia-y-patrimonio)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-economia-y-patrimonio/issues)*   | Información sobre todo lo que tiene que ver con los presupuestos de ingresos y de gastos universitarios.  | 
+| Economía | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/economia-y-patrimonio)*  |  *[Generar issue](https://github.com/openuniversitydata/economia-y-patrimonio/issues)*   | Información sobre todo lo que tiene que ver con los presupuestos de ingresos y de gastos universitarios.  | 
  
  
 &nbsp;
