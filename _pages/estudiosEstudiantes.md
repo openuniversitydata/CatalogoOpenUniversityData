@@ -8,7 +8,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/openuniversitydata/vocab-estudios-y-estudiantes"
+      url: "https://github.com/openuniversitydata/estudios-y-estudiantes"
 title: false
 classes: wide
 permalink: /estudios-y-estudiantes/
@@ -43,7 +43,7 @@ permalink: /estudios-y-estudiantes/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-estudios-y-estudiantes/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/estudios-y-estudiantes/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
@@ -64,12 +64,15 @@ permalink: /estudios-y-estudiantes/
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
 
-<h1> VOCABULARIO ESTUDIOS Y ESTUDIANTES </h1>
+<h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
 </div>
-  
----
 
 &nbsp;
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+
+<h3> VOCABULARIO TITULACIONES </h3>
  
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
@@ -77,12 +80,31 @@ permalink: /estudios-y-estudiantes/
 <img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
-&nbsp; &nbsp;
-
-  
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
-| -------- | -------- | --------- | ---------- | --------------- | 
-| Educación | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-estudios-y-estudiantes)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-estudios-y-estudiantes/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
- 
- 
-&nbsp;
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Educación</td>
+      <td>Inexistente</td>
+      <td>*[Repositorio](https://github.com/openuniversitydata/estudios-y-estudiantes)*</td>
+      <td>*[Generar issue](https://github.com/openuniversitydata/estudios-y-estudiantes/issues)*</td>
+      <td>Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>

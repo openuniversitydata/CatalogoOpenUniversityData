@@ -8,7 +8,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/openuniversitydata/vocab-organizacion-y-servicios"
+      url: "https://github.com/openuniversitydata/organizacion-y-servicios"
 title: false
 classes: wide
 permalink: /organizacion-y-servicios/
@@ -43,7 +43,7 @@ permalink: /organizacion-y-servicios/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/vocab-organizacion-y-servicios/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/organizacion-y-servicios/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
@@ -82,7 +82,7 @@ permalink: /organizacion-y-servicios/
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
 | -------- | -------- | --------- | ---------- | --------------- | 
-| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/vocab-organizacion-y-servicios)*  |  *[Generar issue](https://github.com/openuniversitydata/vocab-organizacion-y-servicios/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
+| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/organizacion-y-servicios)*  |  *[Generar issue](https://github.com/openuniversitydata/organizacion-y-servicios/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
  
 
 &nbsp;
