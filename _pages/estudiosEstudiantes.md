@@ -71,6 +71,7 @@ permalink: /estudios-y-estudiantes/
   <link href="stylesheet.css" rel="stylesheet"/>
 
 <h3> VOCABULARIO TITULACIONES </h3>
+ </div>
  
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 
