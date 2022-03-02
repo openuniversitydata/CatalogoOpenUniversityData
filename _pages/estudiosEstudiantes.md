@@ -67,17 +67,19 @@ permalink: /estudios-y-estudiantes/
 <h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
 </div>
 
-&nbsp;
+<br>
 
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
 
 <h3> VOCABULARIO TITULACIONES </h3>
+
+<br>
  
-<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+<h2 float="right" align="center" style="font-size: small;"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
 
 <table>
@@ -98,8 +100,16 @@ permalink: /estudios-y-estudiantes/
     <tr>
       <td>Educación</td>
       <td>Inexistente</td>
-      <td>*[Repositorio](https://github.com/openuniversitydata/estudios-y-estudiantes)*</td>
-      <td>*[Generar issue](https://github.com/openuniversitydata/estudios-y-estudiantes/issues)*</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+        </em>
+      </td>
       <td>Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.</td>
       <td></td>
       <td></td>
