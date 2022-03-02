@@ -67,16 +67,12 @@ permalink: /estudios-y-estudiantes/
 <h1> VOCABULARIOS SOBRE ESTUDIOS Y ESTUDIANTES </h1>
 </div>
 
-<br>
-
 <div id="bodyid">
   <link href="stylesheet.css" rel="stylesheet"/>
 
 <h3> VOCABULARIO TITULACIONES </h3>
-
-<br>
  
-<h2 float="right" align="center" style="font-size: small;"> El vocabulario se encuentra en construcción </h2>
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
 <img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
