@@ -18,7 +18,7 @@ classes: wide
 	
     
  <div class="navMenu">   
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="border-radius: 10px;">
   <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoUniversiDATA/" style="text-decoration: none;">Catalogue</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -63,7 +63,6 @@ classes: wide
 <br><br>
 	
 <div class="todojunto">
-	
 <div class="container">
 	<br>
 	 <div class="row">
