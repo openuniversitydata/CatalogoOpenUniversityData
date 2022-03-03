@@ -112,7 +112,7 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa a las titulaciones de los estudiantes universitarios.</td>
+      <td>Vocabulario con información relativa a las titulaciones de los estudiantes universitarios</td>
       <td></td>
       <td></td>
       <td></td>
@@ -165,7 +165,7 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa a las matrículas de los estudiantes universitarios.</td>
+      <td>Vocabulario con información relativa a las matrículas de los estudiantes universitarios</td>
       <td></td>
       <td></td>
       <td></td>
@@ -218,7 +218,7 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa al acceso de los estudiantes universitarios.</td>
+      <td>Vocabulario con información relativa al acceso de los estudiantes universitarios</td>
       <td></td>
       <td></td>
       <td></td>
@@ -271,7 +271,7 @@ permalink: /estudios-y-estudiantes/
           <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa a la movilidad, tanto entrante como saliente de los estudiantes universitarios.</td>
+      <td>Vocabulario con información relativa a la movilidad, tanto entrante como saliente, de los estudiantes universitarios</td>
       <td></td>
       <td></td>
       <td></td>

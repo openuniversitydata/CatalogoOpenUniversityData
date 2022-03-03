@@ -111,7 +111,7 @@ permalink: /economia-y-patrimonio/
           <a href="https://github.com/openuniversitydata/economia-y-patrimonio/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa al presupuesto de ingresos universitario.</td>
+      <td>Vocabulario con información relativa al presupuesto de ingresos universitario</td>
       <td></td>
       <td></td>
       <td></td>
@@ -164,7 +164,7 @@ permalink: /economia-y-patrimonio/
           <a href="https://github.com/openuniversitydata/economia-y-patrimonio/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa al presupuesto de gastos universitario.</td>
+      <td>Vocabulario con información relativa al presupuesto de gastos universitario</td>
       <td></td>
       <td></td>
       <td></td>

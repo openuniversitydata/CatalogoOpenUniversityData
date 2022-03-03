@@ -112,7 +112,7 @@ permalink: /recursos-humanos/
           <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa sobre el personal investigador (PI) universitario.</td>
+      <td>Vocabulario con información relativa sobre el personal investigador (PI) universitario</td>
       <td></td>
       <td></td>
       <td></td>
@@ -165,7 +165,7 @@ permalink: /recursos-humanos/
           <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa sobre el personal de administración y servicios (PAS) universitario.</td>
+      <td>Vocabulario con información relativa sobre el personal de administración y servicios (PAS) universitario</td>
       <td></td>
       <td></td>
       <td></td>
@@ -218,7 +218,7 @@ permalink: /recursos-humanos/
           <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa sobre el personal docente e investigador (PDI) universitario.</td>
+      <td>Vocabulario con información relativa sobre el personal docente e investigador (PDI) universitario</td>
       <td></td>
       <td></td>
       <td></td>
