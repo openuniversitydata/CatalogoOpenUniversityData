@@ -104,12 +104,12 @@ permalink: /estudios-y-estudiantes/
       <td>Inexistente</td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-titulaciones">Repositorio</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-titulaciones" target="_blank">Repositorio</a>
         </em>
       </td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
       <td>Vocabulario con información relativa a las titulaciones de los estudiantes universitarios.</td>
@@ -157,12 +157,12 @@ permalink: /estudios-y-estudiantes/
       <td>Inexistente</td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-matriculas">Repositorio</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-matriculas" target="_blank">Repositorio</a>
         </em>
       </td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
       <td>Vocabulario con información relativa a las matrículas de los estudiantes universitarios.</td>
@@ -210,12 +210,12 @@ permalink: /estudios-y-estudiantes/
       <td>Inexistente</td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-acceso">Repositorio</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-acceso" target="_blank">Repositorio</a>
         </em>
       </td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
       <td>Vocabulario con información relativa al acceso de los estudiantes universitarios.</td>
@@ -263,12 +263,12 @@ permalink: /estudios-y-estudiantes/
       <td>Inexistente</td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-movilidad">Repositorio</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/tree/main/vocab-movilidad" target="_blank">Repositorio</a>
         </em>
       </td>
       <td>
         <em>
-          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues">Generar issue</a>
+          <a href="https://github.com/openuniversitydata/estudios-y-estudiantes/issues" target="_blank">Generar issue</a>
         </em>
       </td>
       <td>Vocabulario con información relativa a la movilidad, tanto entrante como saliente de los estudiantes universitarios.</td>
