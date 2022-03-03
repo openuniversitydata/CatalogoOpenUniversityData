@@ -62,27 +62,114 @@ permalink: /organizacion-y-servicios/
 </head>
 
 <div id="bodyid">
-  <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
-
-<h1> VOCABULARIO ORGANIZACIÓN Y SERVICIOS </h1>
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h1> VOCABULARIOS SOBRE ORGANIZACIÓN Y SERVICIOS </h1>
 </div>
-  
----
 
-&nbsp;
- 
-<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+<p>
 
-<p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
-&nbsp; &nbsp;
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO CENTROS </h3>
+</div>
 
-  
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
-| -------- | -------- | --------- | ---------- | --------------- | 
-| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/organizacion-y-servicios)*  |  *[Generar issue](https://github.com/openuniversitydata/organizacion-y-servicios/issues)*   | Información relativa a las titulaciones, las matrículas, el acceso y la movilidad de los estudiantes.  | 
- 
+<p>
 
-&nbsp;
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sector público</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/organizacion-y-servicios/tree/main/vocab-centros" target="_blank">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/organizacion-y-servicios/issues" target="_blank">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa a los centros universitarios que imparten docencia o tienen personal investigador asociado.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO DEPARTAMENTOS </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sector público</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/organizacion-y-servicios/tree/main/vocab-departamentos" target="_blank">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/organizacion-y-servicios/issues" target="_blank">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa a los departamentos (unidad docente/investigadora) universitarios.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>

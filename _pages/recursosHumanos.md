@@ -62,27 +62,167 @@ permalink: /recursos-humanos/
 </head>
 
 <div id="bodyid">
-<link href="stylesheet.css" rel="stylesheet"/>
-
-<h1> VOCABULARIO RECURSOS HUMANOS </h1>
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h1> VOCABULARIOS SOBRE RECURSOS HUMANOS </h1>
 </div>
-  
----
 
-&nbsp;
- 
-<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
+<p>
 
-<p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
-&nbsp; &nbsp;
-  
-  
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
-| -------- | -------- | --------- | ---------- | --------------- | 
-| Sector público | Inexistente |  *[Repositorio](https://github.com/openuniversitydata/recursos-humanos)*  |  *[Generar issue](https://github.com/openuniversitydata/recursos-humanos/issues)*   | Información sobre todo lo relacionado con los empleados universitarios.  | 
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO PERSONAL - PI </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
  
- 
-&nbsp;
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sector público</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/tree/main/vocab-personal-PI" target="_blank">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa sobre el personal investigador (PI) universitario.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO PERSONAL - PAS </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sector público</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/tree/main/vocab-personal-PAS" target="_blank">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa sobre el personal de administración y servicios (PAS) universitario.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div id="bodyid">
+  <link href="stylesheet.css" rel="stylesheet"/>
+  <h3> VOCABULARIO PERSONAL - PDI </h3>
+</div>
+
+<p>
+
+</p>
+
+<h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
+<p float="right" align="center">   
+<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dominio</th>
+      <th>Estado</th>
+      <th>Links</th>
+      <th>Issues</th>
+      <th>Descripción</th>
+      <th>Fecha publicación</th>
+      <th>Formatos</th>
+      <th>Licencia</th>
+      <th>Idiomas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sector público</td>
+      <td>Inexistente</td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/tree/main/vocab-personal-PDI" target="_blank">Repositorio</a>
+        </em>
+      </td>
+      <td>
+        <em>
+          <a href="https://github.com/openuniversitydata/recursos-humanos/issues" target="_blank">Generar issue</a>
+        </em>
+      </td>
+      <td>Vocabulario con información relativa sobre el personal docente e investigador (PDI) universitario.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>es</td>
+    </tr>
+  </tbody>
+</table>
