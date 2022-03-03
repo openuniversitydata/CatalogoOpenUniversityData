@@ -101,8 +101,8 @@ td {
 }
 
 .todojunto{
-  /* background-color: #ebebeb; */
   background-color: deepskyblue;
+  border-radius: 10px;
 }
 
 .grid-container {
@@ -130,9 +130,9 @@ td {
 }
 
 .todojunto{
-   /* background-color: #ebebeb; */
    background-color: deepskyblue;
-   width:100%;
+   width: 100%;
+   border-radius: 10px;
 }
 
 .imagen{    
@@ -232,7 +232,8 @@ header{
 
 .headerC{
     padding: 2.5em;     
-    margin: 2.5em;   
+    margin: 2.5em;
+    border-radius: 10px;
 }
 
 .textFooter{
@@ -244,6 +245,7 @@ header{
 /*nav nuevo(responsive)*/
 .navMenu {	
   text-transform: uppercase;
+  border-radius: 10px;
 }
 
 .navMenu a{
