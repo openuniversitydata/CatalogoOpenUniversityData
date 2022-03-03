@@ -112,7 +112,7 @@ permalink: /organizacion-y-servicios/
           <a href="https://github.com/openuniversitydata/organizacion-y-servicios/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa a los centros universitarios que imparten docencia o tienen personal investigador asociado.</td>
+      <td>Vocabulario con información relativa a los centros universitarios que imparten docencia o tienen personal investigador asociado</td>
       <td></td>
       <td></td>
       <td></td>
@@ -165,7 +165,7 @@ permalink: /organizacion-y-servicios/
           <a href="https://github.com/openuniversitydata/organizacion-y-servicios/issues" target="_blank">Generar issue</a>
         </em>
       </td>
-      <td>Vocabulario con información relativa a los departamentos (unidad docente/investigadora) universitarios.</td>
+      <td>Vocabulario con información relativa a los departamentos (unidad docente/investigadora) universitarios</td>
       <td></td>
       <td></td>
       <td></td>
