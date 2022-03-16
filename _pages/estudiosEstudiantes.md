@@ -31,11 +31,11 @@ permalink: /estudios-y-estudiantes/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	
-<link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>
+<link href="/CatalogoOpenUniversityData/stylesheet.css" rel="stylesheet"/>
 	  
  <div class="navMenu">   
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="border-radius: 5px;">
-  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoUniversiDATA/" style="text-decoration: none;">Catalogue</a>
+  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/" style="text-decoration: none;">Catalogue</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -46,13 +46,13 @@ permalink: /estudios-y-estudiantes/
         <a class="nav-link" href="https://github.com/openuniversitydata/estudios-y-estudiantes/blob/main/README.md" target="_blank" style="text-decoration: none;">README</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open University Data GitHub</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Universities Vocabularies</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
+        <a class="nav-link" href="/CatalogoOpenUniversityData/contact/" style="text-decoration: none;">Contact</a>
       </li>
     </ul>
   </div>
@@ -81,7 +81,7 @@ permalink: /estudios-y-estudiantes/
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+<img src="/CatalogoOpenUniversityData/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
 
 <table>
@@ -134,7 +134,7 @@ permalink: /estudios-y-estudiantes/
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+<img src="/CatalogoOpenUniversityData/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
 
 <table>
@@ -187,7 +187,7 @@ permalink: /estudios-y-estudiantes/
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+<img src="/CatalogoOpenUniversityData/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
 
 <table>
@@ -240,7 +240,7 @@ permalink: /estudios-y-estudiantes/
 
 <h2 float="right" align="center" style="font-size: 0.75rem;"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="/CatalogoUniversiDATA/Iconos/constrA.png" alt="Construction" width="150"/>
+<img src="/CatalogoOpenUniversityData/Iconos/constrA.png" alt="Construction" width="150"/>
 </p>
 
 <table>

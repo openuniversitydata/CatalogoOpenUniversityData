@@ -14,12 +14,12 @@ classes: wide
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	
-<link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>	 
+<link href="/CatalogoOpenUniversityData/stylesheet.css" rel="stylesheet"/>	 
 	
     
  <div class="navMenu">   
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="border-radius: 5px;">
-  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoUniversiDATA/" style="text-decoration: none;">Catalogue</a>
+  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/" style="text-decoration: none;">Catalogue</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -27,13 +27,13 @@ classes: wide
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
 	<li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open University Data GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Universities Vocabularies</a>
       </li>
   <li class="nav-item">
-        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
+        <a class="nav-link" href="/CatalogoOpenUniversityData/contact/" style="text-decoration: none;">Contact</a>
       </li>
 	</ul>
   </div>
@@ -58,7 +58,7 @@ classes: wide
 
 
 <body>
-<link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>	
+<link href="/CatalogoOpenUniversityData/stylesheet.css" rel="stylesheet"/>	
 	
 <br><br>
 	
@@ -69,7 +69,7 @@ classes: wide
 		 <div class="col-6 col-md-3">
  <div class="item1">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/estudios-y-estudiantes/"><img class="imagen1" src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
+<a href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/estudios-y-estudiantes/"><img class="imagen1" src="Iconos/estudios-y-estudiantes.png" alt="EstudiosEstudiantes"/>
     <figcaption style="text-align: center; color: white;">Estudios y Estudiantes</figcaption></a>
 </figure>
   </div>
@@ -77,7 +77,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item2">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/economia-y-patrimonio/"><img class="imagen2" src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
+<a href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/economia-y-patrimonio/"><img class="imagen2" src="Iconos/economia-y-patrimonio.png" alt="EconomiaPatrimonio"/>
     <figcaption style="text-align: center; color: white;">Economía y Patrimonio</figcaption></a>
 </figure>
   </div>
@@ -85,7 +85,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item3">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/recursos-humanos/"><img class="imagen3" src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
+<a href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/recursos-humanos/"><img class="imagen3" src="Iconos/recursos-humanos.png" alt="RecursosHumanos"/>
     <figcaption style="text-align: center; color: white;">Recursos Humanos</figcaption></a>
 </figure>
   </div>
@@ -93,7 +93,7 @@ classes: wide
 <div class="col-6 col-md-3">
  <div class="item4">
 <figure class="imagen">
-<a href="https://openuniversitydata.github.io/CatalogoUniversiDATA/organizacion-y-servicios/"><img class="imagen4" src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
+<a href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/organizacion-y-servicios/"><img class="imagen4" src="Iconos/organizacion-y-servicios.png" alt="OrganizacionServicios"/>
     <figcaption style="text-align: center; color: white;">Organización y Servicios</figcaption></a>
 </figure>
   </div>
