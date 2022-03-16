@@ -48,7 +48,7 @@ permalink: /economia-y-patrimonio/
         <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open University Data GitHub</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Universities Vocabularies</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Universities Ontologies Catalogue</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/CatalogoOpenUniversityData/contact/" style="text-decoration: none;">Contact</a>
