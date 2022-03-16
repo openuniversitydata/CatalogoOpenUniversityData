@@ -18,13 +18,13 @@ permalink: /contact/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface:400">	
-<link href="/CatalogoUniversiDATA/stylesheet.css" rel="stylesheet"/>
-<link href="/CatalogoUniversiDATA/stylesheetcontact.css" rel="stylesheet"/>
+<link href="/CatalogoOpenUniversityData/stylesheet.css" rel="stylesheet"/>
+<link href="/CatalogoOpenUniversityData/stylesheetcontact.css" rel="stylesheet"/>
 	
 	    
  <div class="navMenu">   
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="border-radius: 5px;">
-  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoUniversiDATA/" style="text-decoration: none;">Catalogue</a>
+  <a class="navbar-brand" href="https://openuniversitydata.github.io/CatalogoOpenUniversityData/" style="text-decoration: none;">Catalogue</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -32,13 +32,13 @@ permalink: /contact/
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open UniversiDATA GitHub</a>
+        <a class="nav-link" href="https://github.com/openuniversitydata/" target="_blank" style="text-decoration: none;">Open University Data GitHub</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Data Universities</a>
+        <a class="nav-link" href="https://openuniversitydata.github.io/UniversidadesAbiertas/" target="_blank" style="text-decoration: none;">Open Universities Vocabularies</a>
       </li>
 	<li class="nav-item">
-        <a class="nav-link" href="/CatalogoUniversiDATA/contact/" style="text-decoration: none;">Contact</a>
+        <a class="nav-link" href="/CatalogoOpenUniversityData/contact/" style="text-decoration: none;">Contact</a>
       </li>
     </ul>
   </div>
@@ -69,7 +69,7 @@ permalink: /contact/
 		   <div class="row">
 			   <br>
 			 <div class="col-6 col-md-4">
-			<img src="/CatalogoUniversiDATA/Iconos/location.png" alt="adress" width="100"/>
+			<img src="/CatalogoOpenUniversityData/Iconos/location.png" alt="adress" width="100"/>
 				 <br>
 				 <br>
 				 <h5 class="subtitulo colorgris"> Address </h5>
@@ -78,7 +78,7 @@ permalink: /contact/
 				 <br>
 			  </div> 
 			   <div class="col-6 col-md-4">
-			<img src="/CatalogoUniversiDATA/Iconos/phone.png" alt="phone" width="80"/>
+			<img src="/CatalogoOpenUniversityData/Iconos/phone.png" alt="phone" width="80"/>
 					<br>
 					<br>
 				   <h5 class="subtitulo colorgris"> Phone </h5>
@@ -86,7 +86,7 @@ permalink: /contact/
 				 <p> +34 910672911 </p>
 			  </div>
 			   <div class="col-6 col-md-4">				   
-			<img src="/CatalogoUniversiDATA/Iconos/email.png" alt="email" width="120"/>
+			<img src="/CatalogoOpenUniversityData/Iconos/email.png" alt="email" width="120"/>
 				   <br>
 				   <br>
 				   <h5 class="subtitulo colorgris"> Email </h5>
